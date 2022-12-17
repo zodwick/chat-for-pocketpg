@@ -1,14 +1,26 @@
-.Chat {
+/* .Chat {
   text-align: center;
-}
+} */
 
-.mainHeading{
+/* .mainHeading{
   text-align: center;
-}
+} */
 
 .list {
   list-style: none
 
+
+}
+
+
+
+.left{
+  text-align: left;
+}
+
+
+.right{
+  text-align: right;
 }
 /* .App-logo {
   height: 40vmin;
